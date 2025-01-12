@@ -1,0 +1,20 @@
+body {
+    font-family: sans-serif;
+}
+
+header {background-color:rgb(129, 225, 146); padding: 7px; 
+border-radius: 7px;}
+.ryi {border-radius: 2px;}
+
+h1 {text-align: center ; color:rgba(255, 153, 0, 0.877);} 
+
+.werty{background-color: chartreuse;}
+.sdfgh{background-color: chartreuse;}
+.xcvbnm{background-color: chartreuse;}
+
+.qaz{background-color: rgb(157, 202, 112);}
+.wsx{background-color: rgb(157, 202, 112);}
+.edc{background-color: rgb(157, 202, 112);}
+.rfv{background-color: rgb(157, 202, 112);}
+
+.qwer{border-radius: 9px ; background-color: cadetblue;}
